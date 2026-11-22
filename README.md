@@ -25,7 +25,3 @@ Walls have 2500 health. Cubes and floors have the vanilla 2x1 stone block's heal
 ## Install
 
 Requires BepInExPack for Valheim. Put `StoneBrickWalls.dll` in `BepInEx/plugins`. Install on the server and all clients.
-
-## Logs
-
-Messages from this mod show in the BepInEx console and `LogOutput.log` as `[Stone_Brick_Walls]: message`.

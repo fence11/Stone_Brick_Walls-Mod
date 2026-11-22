@@ -1,9 +1,9 @@
 {
-  "name": "StoneBrickWalls",
-  "version_number": "1.0.0",
-  "website_url": "https://discord.gg/pdHgy6Bsng",
-  "description": "Adds stone brick walls, cubes and floors that use the vanilla stone wall texture.",
+  "name": "Stone_Brick_Walls",
+  "version_number": "1.2.1",
+  "website_url": "",
+  "description": "Adds stone brick walls, cubes and floors that use the vanilla stone wall texture",
   "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2202"
+    "denikson-BepInExPack_Valheim-5.4.2360"
   ]
 }
