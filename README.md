@@ -15,10 +15,10 @@ Found in the hammer's **Stonecutter** tab (requires a nearby Stonecutter). Sizes
 | Stone brick wall | 8x2x1 | 24 |
 | Stone brick wall | 8x4x1 | 48 |
 | Stone brick wall | 8x4x2 | 96 |
-| Stone brick floor | 2x2 (1 thick) | 6 |
-| Stone brick floor | 4x4 (1 thick) | 24 |
+| Stone brick floor, basket weave | 4x4 (1 thick) | 24 |
+| Stone brick floor, framed | 4x4 (1 thick) | 24 |
 
-Every piece is built from the vanilla 2x1 and 1x1 stone blocks, so it looks like you placed those blocks by hand.
+Every piece is built from the vanilla 2x1 and 1x1 stone blocks (the 2m thick walls from 2x1 blocks only), so it looks like you placed those blocks by hand.
 
 Health, damage resistances and sounds are the same as the vanilla 2x1 stone block. Costs and crafting station can be changed in the config file and are synced from the server.
 
