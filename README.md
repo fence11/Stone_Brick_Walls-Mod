@@ -20,7 +20,7 @@ Found in the hammer's **Stonecutter** tab (requires a nearby Stonecutter). Sizes
 
 Every piece is built from the vanilla 2x1 and 1x1 stone blocks (the 2m thick walls from 2x1 blocks only), so it looks like you placed those blocks by hand.
 
-Health, damage resistances and sounds are the same as the vanilla 2x1 stone block. Costs and crafting station can be changed in the config file and are synced from the server.
+Walls have 2500 health. Cubes and floors have the vanilla 2x1 stone block's health. Damage resistances and sounds are the same as the vanilla 2x1 stone block. Costs and crafting station can be changed in the config file and are synced from the server.
 
 ## Install
 
