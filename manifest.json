@@ -1,0 +1,9 @@
+{
+  "name": "Stone_Brick_Walls",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Adds stone brick walls, cubes and floors",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2360"
+  ]
+}
